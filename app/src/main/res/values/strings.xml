@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">YouTube Player</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_you_tube">YouTubeActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_app_id">261785702495</string>
+    <string name="title_activity_standalone">StandaloneActivity</string>
+    <string name="playvideo">Play Video</string>
+    <string name="playlist">Play PlayList</string>
+    <string name="playsingle">Play a single video</string>
+    <string name="standalonesubmenu">Stand Alone Sub Menu</string>
+</resources>
